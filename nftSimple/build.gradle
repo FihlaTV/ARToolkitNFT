@@ -1,0 +1,42 @@
+apply plugin: 'com.android.application'
+android {
+    compileSdkVersion 27
+    buildToolsVersion '27.0.3'
+
+    defaultConfig {
+        minSdkVersion 17
+        targetSdkVersion 27
+
+        ndk {
+            abiFilters 'armeabi', 'armeabi-v7a', 'x86'
+            moduleName "NftSimple"
+        }
+
+        externalNativeBuild {
+            cmake {
+                cppFlags '-std=c++11'
+                arguments '-DANDROID_TOOLCHAIN=clang',
+                        '-DANDROID_PLATFORM=android-19',
+                        '-DANDROID_STL=gnustl_static',
+                        '-DANDROID_ARM_NEON=TRUE',
+                        '-DANDROID_CPP_FEATURES=exceptions rtti'
+            }
+        }
+    }
+
+    externalNativeBuild {
+        /*  cmake {
+            path 'src/main/jni/CMakeLists.txt'
+        }*/
+        ndkBuild {
+            path 'src/main/jni/Android.mk'
+        }
+    }
+    dependencies {
+        compile project(':aRBaseLib')
+    }
+}
+
+dependencies {
+    implementation 'com.android.support:appcompat-v7:27.1.1'
+}

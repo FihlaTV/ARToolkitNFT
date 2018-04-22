@@ -1,0 +1,61 @@
+{
+  "buildFiles": [
+    "C:\\Users\\Strix\\Desktop\\ARToolkit\\AndroidStudioProjects\\nftSimpleProj\\nftSimple\\src\\main\\jni\\Android.mk",
+    "C:\\Users\\Strix\\Desktop\\ARToolkit\\AndroidStudioProjects\\nftSimpleProj\\nftSimple\\src\\main\\jni\\Application.mk"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\Strix\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\Strix\\Desktop\\ARToolkit\\AndroidStudioProjects\\nftSimpleProj\\nftSimple\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\Strix\\Desktop\\ARToolkit\\AndroidStudioProjects\\nftSimpleProj\\nftSimple\\src\\main\\jni\\Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-17 NDK_OUT\u003dC:/Users/Strix/Desktop/ARToolkit/AndroidStudioProjects/nftSimpleProj/nftSimple/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dC:\\Users\\Strix\\Desktop\\ARToolkit\\AndroidStudioProjects\\nftSimpleProj\\nftSimple\\build\\intermediates\\ndkBuild\\release\\lib clean"
+  ],
+  "libraries": {
+    "cpufeatures-release-x86": {
+      "buildCommand": "C:\\Users\\Strix\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\Strix\\Desktop\\ARToolkit\\AndroidStudioProjects\\nftSimpleProj\\nftSimple\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\Strix\\Desktop\\ARToolkit\\AndroidStudioProjects\\nftSimpleProj\\nftSimple\\src\\main\\jni\\Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-17 NDK_OUT\u003dC:/Users/Strix/Desktop/ARToolkit/AndroidStudioProjects/nftSimpleProj/nftSimple/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dC:\\Users\\Strix\\Desktop\\ARToolkit\\AndroidStudioProjects\\nftSimpleProj\\nftSimple\\build\\intermediates\\ndkBuild\\release\\lib C:/Users/Strix/Desktop/ARToolkit/AndroidStudioProjects/nftSimpleProj/nftSimple/build/intermediates/ndkBuild/release/obj/local/x86/libcpufeatures.a",
+      "toolchain": "toolchain-x86",
+      "abi": "x86",
+      "artifactName": "cpufeatures",
+      "files": [
+        {
+          "src": "C:\\Users\\Strix\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\build\\..\\sources\\android\\cpufeatures\\cpu-features.c",
+          "flags": "-gcc-toolchain C:/Users/Strix/AppData/Local/Android/Sdk/ndk-bundle/build//../toolchains/x86-4.9/prebuilt/windows-x86_64 -target i686-none-linux-android -ffunction-sections -funwind-tables -fstack-protector-strong -fPIC -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -no-canonical-prefixes -g -O2 -DNDEBUG -IC:/Users/Strix/AppData/Local/Android/Sdk/ndk-bundle/build//../sources/android/cpufeatures -DANDROID -Wall -Wextra -Werror -D__ANDROID_API__\u003d17 -Wa,--noexecstack -Wformat -Werror\u003dformat-security -mstackrealign --sysroot C:/Users/Strix/AppData/Local/Android/Sdk/ndk-bundle/build//../sysroot -isystem C:/Users/Strix/AppData/Local/Android/Sdk/ndk-bundle/build//../sysroot/usr/include/i686-linux-android"
+        }
+      ],
+      "output": "C:\\Users\\Strix\\Desktop\\ARToolkit\\AndroidStudioProjects\\nftSimpleProj\\nftSimple\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86\\libcpufeatures.a"
+    },
+    "nftSimpleNative-release-x86": {
+      "buildCommand": "C:\\Users\\Strix\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\Strix\\Desktop\\ARToolkit\\AndroidStudioProjects\\nftSimpleProj\\nftSimple\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\Strix\\Desktop\\ARToolkit\\AndroidStudioProjects\\nftSimpleProj\\nftSimple\\src\\main\\jni\\Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-17 NDK_OUT\u003dC:/Users/Strix/Desktop/ARToolkit/AndroidStudioProjects/nftSimpleProj/nftSimple/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dC:\\Users\\Strix\\Desktop\\ARToolkit\\AndroidStudioProjects\\nftSimpleProj\\nftSimple\\build\\intermediates\\ndkBuild\\release\\lib C:/Users/Strix/Desktop/ARToolkit/AndroidStudioProjects/nftSimpleProj/nftSimple/build/intermediates/ndkBuild/release/obj/local/x86/libnftSimpleNative.so",
+      "toolchain": "toolchain-x86",
+      "abi": "x86",
+      "artifactName": "nftSimpleNative",
+      "files": [
+        {
+          "src": "C:\\Users\\Strix\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\build\\..\\sources\\android\\cpufeatures\\cpu-features.c",
+          "flags": "-gcc-toolchain C:/Users/Strix/AppData/Local/Android/Sdk/ndk-bundle/build//../toolchains/x86-4.9/prebuilt/windows-x86_64 -target i686-none-linux-android -ffunction-sections -funwind-tables -fstack-protector-strong -fPIC -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -no-canonical-prefixes -g -O2 -DNDEBUG -IC:/Users/Strix/AppData/Local/Android/Sdk/ndk-bundle/build//../sources/android/cpufeatures -DANDROID -Wall -Wextra -Werror -D__ANDROID_API__\u003d17 -Wa,--noexecstack -Wformat -Werror\u003dformat-security -mstackrealign --sysroot C:/Users/Strix/AppData/Local/Android/Sdk/ndk-bundle/build//../sysroot -isystem C:/Users/Strix/AppData/Local/Android/Sdk/ndk-bundle/build//../sysroot/usr/include/i686-linux-android"
+        },
+        {
+          "src": "C:\\Users\\Strix\\Desktop\\ARToolkit\\AndroidStudioProjects\\nftSimpleProj\\nftSimple\\src\\main\\jni\\ARMarkerNFT.c",
+          "flags": "-gcc-toolchain C:/Users/Strix/AppData/Local/Android/Sdk/ndk-bundle/build//../toolchains/x86-4.9/prebuilt/windows-x86_64 -target i686-none-linux-android -ffunction-sections -funwind-tables -fstack-protector-strong -fPIC -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -no-canonical-prefixes -g -O2 -DNDEBUG -IC:/Users/Strix/Desktop/ARToolkit/AndroidStudioProjects/nftSimpleProj/nftSimple/src/main/jni/../../../../../../android/../include/android -IC:/Users/Strix/Desktop/ARToolkit/AndroidStudioProjects/nftSimpleProj/nftSimple/src/main/jni/../../../../../../android/../include -IC:/Users/Strix/AppData/Local/Android/Sdk/ndk-bundle/build//../sources/android/cpufeatures -IC:/Users/Strix/AppData/Local/Android/Sdk/ndk-bundle/build//../sources/cxx-stl/llvm-libc++/include -IC:/Users/Strix/AppData/Local/Android/Sdk/ndk-bundle/build//../sources/cxx-stl/llvm-libc++/../llvm-libc++abi/include -IC:/Users/Strix/AppData/Local/Android/Sdk/ndk-bundle/build//../sources/android/support/include -IC:/Users/Strix/Desktop/ARToolkit/AndroidStudioProjects/nftSimpleProj/nftSimple/src/main/jni -DANDROID -D__ANDROID_API__\u003d17 -Wa,--noexecstack -Wformat -Werror\u003dformat-security -mstackrealign --sysroot C:/Users/Strix/AppData/Local/Android/Sdk/ndk-bundle/build//../sysroot -isystem C:/Users/Strix/AppData/Local/Android/Sdk/ndk-bundle/build//../sysroot/usr/include/i686-linux-android"
+        },
+        {
+          "src": "C:\\Users\\Strix\\Desktop\\ARToolkit\\AndroidStudioProjects\\nftSimpleProj\\nftSimple\\src\\main\\jni\\nftSimple.cpp",
+          "flags": "-gcc-toolchain C:/Users/Strix/AppData/Local/Android/Sdk/ndk-bundle/build//../toolchains/x86-4.9/prebuilt/windows-x86_64 -target i686-none-linux-android -ffunction-sections -funwind-tables -fstack-protector-strong -fPIC -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -no-canonical-prefixes -g -fno-exceptions -fno-rtti -O2 -DNDEBUG -IC:/Users/Strix/Desktop/ARToolkit/AndroidStudioProjects/nftSimpleProj/nftSimple/src/main/jni/../../../../../../android/../include/android -IC:/Users/Strix/Desktop/ARToolkit/AndroidStudioProjects/nftSimpleProj/nftSimple/src/main/jni/../../../../../../android/../include -IC:/Users/Strix/AppData/Local/Android/Sdk/ndk-bundle/build//../sources/android/cpufeatures -IC:/Users/Strix/AppData/Local/Android/Sdk/ndk-bundle/build//../sources/cxx-stl/llvm-libc++/include -IC:/Users/Strix/AppData/Local/Android/Sdk/ndk-bundle/build//../sources/cxx-stl/llvm-libc++/../llvm-libc++abi/include -IC:/Users/Strix/AppData/Local/Android/Sdk/ndk-bundle/build//../sources/android/support/include -IC:/Users/Strix/Desktop/ARToolkit/AndroidStudioProjects/nftSimpleProj/nftSimple/src/main/jni -std\u003dc++11 -frtti -fexceptions -DANDROID -D__ANDROID_API__\u003d17 -Wa,--noexecstack -Wformat -Werror\u003dformat-security -mstackrealign --sysroot C:/Users/Strix/AppData/Local/Android/Sdk/ndk-bundle/build//../sysroot -isystem C:/Users/Strix/AppData/Local/Android/Sdk/ndk-bundle/build//../sysroot/usr/include/i686-linux-android"
+        },
+        {
+          "src": "C:\\Users\\Strix\\Desktop\\ARToolkit\\AndroidStudioProjects\\nftSimpleProj\\nftSimple\\src\\main\\jni\\trackingSub.c",
+          "flags": "-gcc-toolchain C:/Users/Strix/AppData/Local/Android/Sdk/ndk-bundle/build//../toolchains/x86-4.9/prebuilt/windows-x86_64 -target i686-none-linux-android -ffunction-sections -funwind-tables -fstack-protector-strong -fPIC -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -no-canonical-prefixes -g -O2 -DNDEBUG -IC:/Users/Strix/Desktop/ARToolkit/AndroidStudioProjects/nftSimpleProj/nftSimple/src/main/jni/../../../../../../android/../include/android -IC:/Users/Strix/Desktop/ARToolkit/AndroidStudioProjects/nftSimpleProj/nftSimple/src/main/jni/../../../../../../android/../include -IC:/Users/Strix/AppData/Local/Android/Sdk/ndk-bundle/build//../sources/android/cpufeatures -IC:/Users/Strix/AppData/Local/Android/Sdk/ndk-bundle/build//../sources/cxx-stl/llvm-libc++/include -IC:/Users/Strix/AppData/Local/Android/Sdk/ndk-bundle/build//../sources/cxx-stl/llvm-libc++/../llvm-libc++abi/include -IC:/Users/Strix/AppData/Local/Android/Sdk/ndk-bundle/build//../sources/android/support/include -IC:/Users/Strix/Desktop/ARToolkit/AndroidStudioProjects/nftSimpleProj/nftSimple/src/main/jni -DANDROID -D__ANDROID_API__\u003d17 -Wa,--noexecstack -Wformat -Werror\u003dformat-security -mstackrealign --sysroot C:/Users/Strix/AppData/Local/Android/Sdk/ndk-bundle/build//../sysroot -isystem C:/Users/Strix/AppData/Local/Android/Sdk/ndk-bundle/build//../sysroot/usr/include/i686-linux-android"
+        }
+      ],
+      "output": "C:\\Users\\Strix\\Desktop\\ARToolkit\\AndroidStudioProjects\\nftSimpleProj\\nftSimple\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86\\libnftSimpleNative.so"
+    }
+  },
+  "toolchains": {
+    "toolchain-x86": {
+      "cCompilerExecutable": "C:\\Users\\Strix\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\build\\..\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe",
+      "cppCompilerExecutable": "C:\\Users\\Strix\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\build\\..\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\build\intermediates\exploded-aar\nftSimpleProj\aRBaseLib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="44b025e216f91da596373dc8e6ade4a694e550b8">
+        <dex dex="C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\build\intermediates\pre-dexed\debug\nftSimpleProj-aRBaseLib-unspecified_fad4f093e267d322563a27259ecbfb7ae3d7c91c.jar" />
+    </item>
+
+</items>

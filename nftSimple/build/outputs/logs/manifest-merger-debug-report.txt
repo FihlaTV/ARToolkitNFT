@@ -1,0 +1,153 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml:2:1-48:12
+MERGED from [:aRBaseLib] C:\Users\Strix\.gradle\caches\transforms-1\files-1.1\aRBaseLib-debug.aar\8f6146b14d237943e96c3bb98a6231b5\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Strix\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\bb72667bc283b8a567adcc2fec25197a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Strix\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\3348cabde7aab7e0095dbb5769ad9833\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Strix\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\cd398ab4785c00cfbf7f851df44d86b7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Strix\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\55f4b9ed2df086b73029c07b73510bb7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Strix\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\99a00afceadf451916a1c6021148739a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Strix\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\103323f690077c0e81473286ecb0ca3d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Strix\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\bfa552974ff1159c6b5fba1e58c1a129\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Strix\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\773b67ab33d7eb44889191601a1a5134\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Strix\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f8712ef505cfb200b63b9a8ff9d6112e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Strix\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ec2f1a0940628529d5daf7329dbf02f4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Strix\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2b378c48957ee0f89f8d14b5b2a728ea\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml:2:1-48:12
+	package
+		ADDED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml:3:5-49
+	android:versionName
+		ADDED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml:4:5-32
+		INJECTED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml:7:22-62
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml:9:22-76
+uses-feature#android.hardware.camera.any
+ADDED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml:11:5-64
+	android:name
+		ADDED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml:11:19-61
+uses-feature#android.hardware.camera
+ADDED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml:12:5-14:36
+	android:required
+		ADDED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml:14:9-33
+	android:name
+		ADDED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml:13:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml:15:5-17:35
+	android:required
+		ADDED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml:17:9-32
+	android:name
+		ADDED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml:16:9-57
+uses-feature#0x00010100
+ADDED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml:18:5-54
+	android:glEsVersion
+		ADDED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml:18:19-51
+supports-screens
+ADDED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml:20:5-25:40
+	android:largeScreens
+		ADDED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml:22:9-36
+	android:smallScreens
+		ADDED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml:24:9-36
+	android:normalScreens
+		ADDED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml:23:9-37
+	android:xlargeScreens
+		ADDED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml:25:9-37
+	android:anyDensity
+		ADDED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml:21:9-34
+application
+ADDED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml:27:5-46:19
+	android:label
+		ADDED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml:31:9-41
+	android:icon
+		ADDED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml:30:9-38
+	android:allowBackup
+		ADDED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml:29:9-35
+	android:name
+		ADDED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml:28:9-45
+activity#org.artoolkit.ar.samples.nftSimple.nftSimpleActivity
+ADDED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml:32:9-42:20
+	android:label
+		ADDED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml:35:13-45
+	android:configChanges
+		ADDED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml:34:13-74
+	android:theme
+		ADDED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml:36:13-66
+	android:name
+		ADDED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml:33:13-46
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml:37:13-41:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml:38:17-69
+	android:name
+		ADDED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml:38:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml:40:17-77
+	android:name
+		ADDED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml:40:27-74
+activity#org.artoolkit.ar.base.camera.CameraPreferencesActivity
+ADDED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml:43:9-91
+	android:name
+		ADDED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml:43:19-88
+activity#org.artoolkit.ar.samples.nftSimple.MarkerDetailActivity
+ADDED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml:44:9-45:53
+	android:theme
+		ADDED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml:45:13-51
+	android:name
+		ADDED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml:44:19-55
+uses-sdk
+INJECTED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml
+MERGED from [:aRBaseLib] C:\Users\Strix\.gradle\caches\transforms-1\files-1.1\aRBaseLib-debug.aar\8f6146b14d237943e96c3bb98a6231b5\AndroidManifest.xml:7:5-9:41
+MERGED from [:aRBaseLib] C:\Users\Strix\.gradle\caches\transforms-1\files-1.1\aRBaseLib-debug.aar\8f6146b14d237943e96c3bb98a6231b5\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Strix\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\bb72667bc283b8a567adcc2fec25197a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Strix\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\bb72667bc283b8a567adcc2fec25197a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Strix\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\3348cabde7aab7e0095dbb5769ad9833\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Strix\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\3348cabde7aab7e0095dbb5769ad9833\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Strix\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\cd398ab4785c00cfbf7f851df44d86b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Strix\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\cd398ab4785c00cfbf7f851df44d86b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Strix\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\55f4b9ed2df086b73029c07b73510bb7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Strix\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\55f4b9ed2df086b73029c07b73510bb7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Strix\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\99a00afceadf451916a1c6021148739a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Strix\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\99a00afceadf451916a1c6021148739a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Strix\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\103323f690077c0e81473286ecb0ca3d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Strix\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\103323f690077c0e81473286ecb0ca3d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Strix\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\bfa552974ff1159c6b5fba1e58c1a129\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Strix\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\bfa552974ff1159c6b5fba1e58c1a129\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Strix\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\773b67ab33d7eb44889191601a1a5134\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Strix\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\773b67ab33d7eb44889191601a1a5134\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Strix\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f8712ef505cfb200b63b9a8ff9d6112e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Strix\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f8712ef505cfb200b63b9a8ff9d6112e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Strix\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ec2f1a0940628529d5daf7329dbf02f4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Strix\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ec2f1a0940628529d5daf7329dbf02f4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Strix\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2b378c48957ee0f89f8d14b5b2a728ea\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Strix\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2b378c48957ee0f89f8d14b5b2a728ea\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Strix\Desktop\ARToolkit\AndroidStudioProjects\nftSimpleProj\nftSimple\src\main\AndroidManifest.xml

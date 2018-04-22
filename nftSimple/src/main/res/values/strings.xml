@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Welcome to nftSimple.</string>
+    <string name="app_name">nftSimple</string>
+    <string name="marker_found">Congratulations you have found %s</string>
+</resources>
